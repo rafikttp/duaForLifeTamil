@@ -1,0 +1,13 @@
+---
+layout: allpages
+title:  துஆ செய்தல் மற்றும் பண்பாட்டு
+description: எங்களை உங்கள் துஆவை ஏற்றுக் கொள்வது முக்கியம் ஆசாரம் பார்க்கிறேன்
+---
+
+{% assign sorted_pages = site.pages | sort:"order" %}
+{% for page in sorted_pages %}
+  {% if page.categories contains 'etiquette' %}
+      <p>{{ page.order }} .<a href="{{ site.baseurl }}{{ page.url }}"><b>{{ page.title }}</b></a></p>
+      <br>
+  {% endif %}
+{% endfor %}
