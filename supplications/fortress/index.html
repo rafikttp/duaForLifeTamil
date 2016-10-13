@@ -1,0 +1,15 @@
+---
+layout: allpages
+title:  Fortress of A Muslim
+description: Supplications from the fortress of a Muslim
+categories : [supplications]
+order : 1
+---
+
+{% assign sorted_pages = site.pages | sort:"order" %}
+{% for page in sorted_pages %}
+  {% if page.categories contains 'fortress' %}
+      <p>{{ page.order }} .<a href="{{ site.baseurl }}{{ page.url }}"><b>{{ page.title }}</b></a></p>
+      <br>
+  {% endif %}
+{% endfor %}

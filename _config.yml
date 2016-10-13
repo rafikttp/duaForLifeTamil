@@ -4,9 +4,10 @@ url: http://ta.duaforlife.com
 
 
 
-include: ['_includes','_pages']
-categories: [home, etiquette, stories, supplications]
+include: ['_includes']
+categories: [home, etiquette, stories, fortress,supplications]
 permalink: pretty
 gems:
   - jekyll-sitemap
   - jekyll-seo-tag
+

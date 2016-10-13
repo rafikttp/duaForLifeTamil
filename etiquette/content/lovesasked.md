@@ -1,11 +1,10 @@
 ---
 layout: allpages
-title:  அல்லாஹ் தானிடம் தூஅ கேட்பதை விரும்பூின்றான்
+title:  Allah Loves to Be Asked
 categories : [etiquette]
 order : 1
 ---
 
-
-அவர் என்று அனைத்து விஷயங்கள் ஊக்குவிக்கிறது. அவர் அவன் கேட்க முடியாது ஒருவர் மிகவும் கோபமாக இருக்கிறார், அவர் அவன் கேட்க தன் அடியார்களை ஊக்குவிக்கிறது. அல்லாஹ் கூறுகிறான்:
-<blockquote>"உங்கள் இறைவன் சொன்னார்:" என்னை அழையுங்கள் [அதாவது என் ஒருமையை (இஸ்லாமிய கடவுட்) நம்பிக்கை மற்றும் எதைக்கேட்டாலும்] நான் உங்கள் (பிரார்த்தனை) பதிலளிக்க வேண்டும் "[குர்ஆன் 40:60]</blockquote>
-<blockquote>"என் அடிமைகள் என்னைக் குறித்து நீங்கள் (நபியே!) கேட்கும் போது, பின்னர் (அவர்களுக்கு பதில்) நான் நிச்சயமாக அருகே (அவர்கள் என் அறிவு மூலம்) இருக்கிறேன். அவர் என்னை (எந்த மத்தியஸ்தராக, பரிந்து பேசுபவரோ இல்லாமல்) அழைக்கும் போது நான் இறைஞ்சி பிரார்த்தனையில் பதிலளிக்க. எனவே அவர்கள் எனக்கும் வழிபடுங்கள் அவர்கள் நேர்வழியை அடைவார்கள் என்று என் மேல் நம்பிக்கை அனுமதிக்க "[குர்ஆன் 2: 186]</blockquote>
+He encourages that in all things. He is angry with the one who does not ask of Him and He encourages His slaves to ask of Him. Allah says:
+<blockquote>“And your Lord said: “Invoke Me [i.e. believe in My Oneness (Islamic Monotheism) and ask Me for anything] I will respond to your (invocation)” [Noble Quran 40:60]</blockquote>
+<blockquote>“And when My slaves ask you (O Muhammad) concerning Me, then (answer them), I am indeed near (to them by My Knowledge). I respond to the invocations of the supplicant when he calls on Me (without any mediator or intercessor). So let them obey Me and believe in Me, so that they may be led aright” [Noble Quran 2:186]</blockquote>

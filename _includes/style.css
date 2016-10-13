@@ -9,8 +9,8 @@
         }
         body {
             margin: 0 0 40px;
-            line-height: 2em;
-            overflow-x: hidden;
+            line-height: 1.5em;
+            overflow-x: hidden
         }
         footer {
             position: absolute;
@@ -300,3 +300,5 @@
   background-color: #c23321;
   border-color: #c23321;
 }
+
+audio { width: 100%; }
