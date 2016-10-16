@@ -1,6 +1,6 @@
 ---
 layout: allpages
-title: Invocation For Entering The Restroom
+title: கழிவறையில் நுழைகின்ற போது கூறப்படும் துஆ
 categories:
   - fortress
 order: 7
