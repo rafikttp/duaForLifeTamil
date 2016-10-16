@@ -25,7 +25,7 @@ Your browser does not support the audio element.
 
 &nbsp;
 <div class="duaextra" tabindex="0">
-<div><strong>Transliteration</strong></div>
+<div><strong> பொருள் </strong></div>
 <div class="extra"> (அல்லாஹ்வின் பெயரால் பிரவேசிக்கிறேன்) யா அல்லாஹ்! ஆண் ஷைத்தான் பெண் ஷைத்தான்களின் தீமையிலிருந்து உன்னைக் கொண்டு நிச்சயமாக நான் பாதுகாவல் தேடுகிறேன் .</div>
 </div>
 &nbsp;
@@ -35,6 +35,6 @@ Your browser does not support the audio element.
 </div>
 &nbsp;
 <div class="duaextra" tabindex="0">
-<div><strong>Reference</strong></div>
-<div class="extra"> நூல்கள் : புகாரீ பாகம் :1 , பக்கம் 45, முஸ்லிம் , பாகம் : 1 பக்கம்:283ல் பதிவு செய்துள்ளார்கள். இதன் தொடக்கத்தில் பிஸ்மில்லாஹ் அதிகமாக உள்ளது; அதை ஸ்யிது பின் மன்ஸுர் பதிவு செய்துள்ளார். ஃபத்ஹுல் பாரீ  1/244  காண்க. <div>
+<div><strong> நூல்கள் </strong></div>
+<div class="extra"> புகாரீ பாகம் :1 , பக்கம் 45, முஸ்லிம் , பாகம் : 1 பக்கம்:283ல் பதிவு செய்துள்ளார்கள். இதன் தொடக்கத்தில் பிஸ்மில்லாஹ் அதிகமாக உள்ளது; அதை ஸ்யிது பின் மன்ஸுர் பதிவு செய்துள்ளார். ஃபத்ஹுல் பாரீ  1/244  காண்க. <div>
 </div>
