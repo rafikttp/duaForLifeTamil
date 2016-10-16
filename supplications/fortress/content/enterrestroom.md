@@ -30,7 +30,7 @@ Your browser does not support the audio element.
 </div>
 &nbsp;
 <div class="duaextra" tabindex="0">
-<div><strong>Translation</strong></div>
+<div><strong> அரபி மூலம் </strong></div>
 <div class="extra">10.(பிஸ்மில்லாஹி) அல்லாஹும்ம இன்னீ அஊது பிக மினல் குப்ஸி வல் கபாயிஸி.</div>
 </div>
 &nbsp;
