@@ -24,7 +24,7 @@ Your browser does not support the audio element.
 &nbsp;
 
 <div class="duaextra" tabindex="0"> <div onclick = "void(0)"><strong>Transliteration</strong></div> <div class="extra">
-164. அல்லாஹும்ம மஃக்
+164. அல்லாஹும்ம மஃக் ஃபிர் லஹு , அல்லாஹும்ம தப்பித்ஹு.
 
 </div> </div> &nbsp; 
 <div class="duaextra" tabindex="0"> <div onclick = "void(0)"><strong>Translation</strong></div> <div class="extra">
