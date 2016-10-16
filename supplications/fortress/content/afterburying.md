@@ -1,6 +1,6 @@
 ---
 layout: allpages
-title:  Invocation to be recited after burying the dead
+title:  மய்யித்தை அடக்கம் செய்த பிறகு துஆ
 categories : [fortress]
 order : 58
 description: Invocation to be recited after burying the dead
@@ -24,7 +24,7 @@ Your browser does not support the audio element.
 &nbsp;
 
 <div class="duaextra" tabindex="0"> <div onclick = "void(0)"><strong>Transliteration</strong></div> <div class="extra">
-164. Allaahum-maghfir lahu Allaahumma thabbithu.
+164. அல்லாஹும்ம மஃக்
 
 </div> </div> &nbsp; 
 <div class="duaextra" tabindex="0"> <div onclick = "void(0)"><strong>Translation</strong></div> <div class="extra">
