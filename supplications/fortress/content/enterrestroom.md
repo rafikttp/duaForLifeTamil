@@ -31,7 +31,7 @@ Your browser does not support the audio element.
 &nbsp;
 <div class="duaextra" tabindex="0">
 <div><strong>Translation</strong></div>
-<div class="extra">10. [Bismillaahi] Allaahumma 'innee 'a'oothu bika minal-khubthi walkhabaa'ith.</div>
+<div class="extra">10.(பிஸ்மில்லாஹி) அல்லாஹும்ம இன்னீ அஊது பிக மினல் குப்ஸி வல் கபாயிஸி.</div>
 </div>
 &nbsp;
 <div class="duaextra" tabindex="0">
