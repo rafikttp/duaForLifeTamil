@@ -27,7 +27,7 @@ Your browser does not support the audio element.
 164. அல்லாஹும்ம மஃக் ஃபிர் லஹு , அல்லாஹும்ம தப்பித்ஹு.
 
 </div> </div> &nbsp; 
-<div class="duaextra" tabindex="0"> <div onclick = "void(0)"><strong> பொருள்</strong></div> <div class="extra">
+<div class="duaextra" tabindex="0"> <div onclick = "void(0)"><strong> பொருள் : </strong></div> <div class="extra">
 O Allah, forgive him. O Allah, strengthen him.
 
 </div> </div> &nbsp;
