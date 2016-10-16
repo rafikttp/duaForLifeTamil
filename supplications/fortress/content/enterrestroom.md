@@ -26,7 +26,7 @@ Your browser does not support the audio element.
 &nbsp;
 <div class="duaextra" tabindex="0">
 <div><strong>Transliteration</strong></div>
-<div class="extra">(Before entering) [In the Name of Allah] . (Then) O Allah , I seek protection in You from the male and female unclean spirits.</div>
+<div class="extra"> (அல்லாஹ்வின் பெயரால் பிரவேசிக்கிறேன்) யா அல்லாஹ்! ஆண் ஷைத்தான் பெண் ஷைத்தான்களின் தீமையிலிருந்து உன்னைக் கொண்டு நிச்சயமாக நான் பாதுகாவல் தேடுகிறேன் .</div>
 </div>
 &nbsp;
 <div class="duaextra" tabindex="0">
