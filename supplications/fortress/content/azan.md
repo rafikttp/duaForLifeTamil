@@ -1,6 +1,6 @@
 ---
 layout: allpages
-title:  What to say upon hearing the Athan/Azan (call to prayer)
+title:  பாங்கின் போது கூறப்படும் துஆ
 categories : [fortress]
 order : 16
 description: What to say when hearing the Athan/Azan (call to prayer)
