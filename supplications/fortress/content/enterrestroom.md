@@ -36,5 +36,5 @@ Your browser does not support the audio element.
 &nbsp;
 <div class="duaextra" tabindex="0">
 <div><strong>Reference</strong></div>
-<div class="extra">Reference: Al-Bukhari 1/45, Muslim 1/283. The addition of Bismillah at its beginning was reported by Said bin Mansur. See Fathul-Bari 1/244</div>
+<div class="extra"> நூல்கள் : புகாரீ பாகம் :1 , பக்கம் 45, முஸ்லிம் , பாகம் : 1 பக்கம்:283ல் பதிவு செய்துள்ளார்கள். இதன் தொடக்கத்தில் பிஸ்மில்லாஹ் அதிகமாக உள்ளது; அதை ஸ்யிது பின் மன்ஸுர் பதிவு செய்துள்ளார். ஃபத்ஹுல் பாரீ  1/244  காண்க <div>
 </div>
