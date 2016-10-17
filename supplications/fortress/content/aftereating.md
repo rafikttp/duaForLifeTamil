@@ -1,6 +1,6 @@
 ---
 layout: allpages
-title:  Invocations after eating
+title:  உணவை உண்டு முடித்த பின் துஆ
 categories : [fortress]
 order : 68
 description: Invocations after eating
@@ -46,15 +46,15 @@ Reference: At-Tirmithi, Abu Dawud, and Ibn Majah. See also Al-Albani, Sahih At-T
 Your browser does not support the audio element.
 </audio> &nbsp;
 
-<div class="duaextra" tabindex="0"> <div onclick = "void(0)"><strong>Transliteration</strong></div> <div class="extra">
-181. Alhamdu lillaahi hamdan katheeran tayyiban mubaarakan feehi, ghayra [makfiyyin wa laa] muwadda'in, wa laa mustaghnan 'anhu Rabbanaa.
+<div class="duaextra" tabindex="0"> <div onclick = "void(0)"><strong>அரபி மூலம்:</strong></div> <div class="extra">
+(180) 1. அல்ஹம்து லில்லாஹில்லதீ  அத்அமனீ ஹாதா வரஜகனீஹி , மின் ஃகைரி ஹவ்லின் மின்னீ வலா குவ்வத்தின்.
 
 </div> </div> &nbsp;
-<div class="duaextra" tabindex="0"> <div onclick = "void(0)"><strong>Translation</strong></div> <div class="extra">
-All praise is to Allah, praise in abundance, good and blessed . It cannot [be compensated for, nor can it] be left, nor can it be done without , our Lord.
+<div class="duaextra" tabindex="0"> <div onclick = "void(0)"><strong>பொருள்:</strong></div> <div class="extra">
+என்னிருந்துள்ள முயற்சி மற்றும் என் பலமின்றி எனக்கு இதை உண்ணக் கொடுத்து , அதை வழங்கவும் செய்தவனாகிய அல்லாஹ்விற்கே புகழனைத்தும் உரித்தாகுக!
 
 </div> </div> &nbsp;
-<div class="duaextra" tabindex="0"> <div onclick = "void(0)"><strong>Reference</strong></div> <div class="extra">
-Reference: Al-Bukhari 6/214, At-Tirmithi 5/507.
+<div class="duaextra" tabindex="0"> <div onclick = "void(0)"><strong>நூல்கள்:</strong></div> <div class="extra">
+அபுதாவூது இப்னுமாஜா ஆகியோர் , ஸஹீஹ் அத்திர்மிதீ 3 / 159ம் காண்க!
 
 </div> </div>
