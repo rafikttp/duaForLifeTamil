@@ -32,7 +32,7 @@ Your browser does not support the audio element.
 
 குறிப்பு  : மய்யித்தை அடக்கம் செய்து விடும் பொழுது நபி ஸல்லல்லாஹு அலைஹி வஸல்லம் அவர்கள் அங்கு  நின்று உங்களுடைய சகோதரருக்காக பாவ ம்ன்னிப்புத்  தேடுங்கள். ஸ்திரத்தையும் அவருக்காக கேளுங்கள்; ஏனெனில், நிச்சயமாக அவர் இப்போது கேள்வி கேட்கப்படுகிறார் என்று கூறுவார்கள்.
 </div> </div> &nbsp;
-<div class="duaextra" tabindex="0"> <div onclick = "void(0)"><strong>Reference</strong></div> <div class="extra">
-Reference: The Prophet (SAW) used to stop after burying the dead and say to the people: "Ask Allah to forgive your brother and pray for him to be strengthened, for indeed he is now being questioned." Abu Dawud 3/315, and Al-Hakim 1/370 who graded it authentic and Ath-Thahabi agreed.
+<div class="duaextra" tabindex="0"> <div onclick = "void(0)"><strong>நூல்கள்:</strong></div> <div class="extra">
+
 
 </div> </div>
