@@ -21,15 +21,15 @@ description: Invocation for anger
 Your browser does not support the audio element.
 </audio> &nbsp;
 
-<div class="duaextra" tabindex="0"> <div onclick = "void(0)"><strong>Transliteration</strong></div> <div class="extra">
+<div class="duaextra" tabindex="0"> <div onclick = "void(0)"><strong> பொருள் :</strong></div> <div class="extra">
 (193) அஊது பில்லாஹி மினஷ் ஷைத்தானிர் ரஜீம்.
 
 </div> </div> &nbsp; 
 <div class="duaextra" tabindex="0"> <div onclick = "void(0)"><strong>Translation</strong></div> <div class="extra">
-I seek refuge in Allah from Satan the outcast from that which You provide for us.
+எறியப்பட்ட ஷைத்தானின் தீமையிலிருந்து அல்லாஹ்வைக் கொண்டு காவல் தேடுகிறேன்.
 
 </div> </div> &nbsp;
-<div class="duaextra" tabindex="0"> <div onclick = "void(0)"><strong>Reference</strong></div> <div class="extra">
-Reference: Al-Bukhari 7/99, Muslim 4/2015.
+<div class="duaextra" tabindex="0"> <div onclick = "void(0)"><strong> ஆதார நூல்கள் :</strong></div> <div class="extra">
+புகாரீ 7/90 முஸ்லிம் 4/2015.
 
 </div> </div>
