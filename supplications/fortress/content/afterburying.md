@@ -28,7 +28,7 @@ Your browser does not support the audio element.
 
 </div> </div> &nbsp; 
 <div class="duaextra" tabindex="0"> <div onclick = "void(0)"><strong> பொருள் : </strong></div> <div class="extra">
-யா அல்லாஹ் !  அவருக்கு பாவம் பொருத்தருள்வாயாக !  யா அல்லாஹ் ! (முன்கர் மற்றும் நகீர் ஆகிய மலக்குகள் கேட்கின்ற கேள்விக்கு நாக்குளராது பதில் கூற ) அவரை ஸ்
+யா அல்லாஹ் !  அவருக்கு பாவம் பொருத்தருள்வாயாக !  யா அல்லாஹ் ! (முன்கர் மற்றும் நகீர் ஆகிய மலக்குகள் கேட்கின்ற கேள்விக்கு நாக்குளராது பதில் கூற ) அவரை ஸ்தீரப்படுத்தி வைப்பயாக !
 
 </div> </div> &nbsp;
 <div class="duaextra" tabindex="0"> <div onclick = "void(0)"><strong>Reference</strong></div> <div class="extra">
