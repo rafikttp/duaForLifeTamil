@@ -23,7 +23,6 @@ Your browser does not support the audio element.
 
 <div class="duaextra" tabindex="0"> <div onclick = "void(0)"><strong> அரபி மூலம் : </strong></div> <div class="extra">
 (193) அஊது பில்லாஹி மினஷ் ஷைத்தானிர் ரஜீம்.
-
 </div> </div> &nbsp; 
 <div class="duaextra" tabindex="0"> <div onclick = "void(0)"><strong> பொருள் :</strong></div> <div class="extra">
 எறியப்பட்ட ஷைத்தானின் தீமையிலிருந்து அல்லாஹ்வைக் கொண்டு காவல் தேடுகிறேன்.
