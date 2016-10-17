@@ -23,12 +23,12 @@ Your browser does not support the audio element.
 &nbsp;
 <div class="duaextra" tabindex="0">
 <div><strong> அரபி மூலம் : </strong></div>
-<div class="extra">119: Subhaanal-Malikil-Quddoosi.</div>
+<div class="extra">119: ஷ்ப்ஹானல் மலிகில் குத்தூஸ் என்று மும்முறை </div>
 </div>
 &nbsp;
 <div class="duaextra" tabindex="0">
 <div><strong>Translation</strong></div>
-<div class="extra">Glory is to the King, the Holy.</div>
+<div class="extra"> சுத்தமாகிய அரசனான (அல்லாஹ்) மிக தூயவன் .</div>
 </div>
 &nbsp;
 <div class="extra">[Recite three times in Arabic, and raise and extend the voice on the third time and say . . .]</div>
