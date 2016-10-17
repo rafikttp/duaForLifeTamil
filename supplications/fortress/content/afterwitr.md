@@ -44,6 +44,6 @@ Your browser does not support the audio element.
 </div>
 &nbsp;
 <div class="duaextra" tabindex="0">
-<div><strong>Reference</strong></div>
-<div class="extra">Reference: An-Nasa'i 3/244, Ad-Daraqutni and others. The final addition is from Ad-Daraqutni's version 2/ 31 and its chain of narration is authentic. See the checking of Zadul-Ma'ad by Shu'aib Al-Arna'ut and 'Abdul-Qadir Al-Arna'ut 1/337.</div>
+<div><strong> ஆதார நூல்கள் :</strong></div>
+<div class="extra">அபுதாவூது 4/329 , ஸஹீஹ் அபுதாவூது 3/962 , அல்பானீ அவர்கள் இதனைப்பற்றி அழகான தரத்தையுடைதென கூறியுள்ளார்கள்.</div>
 </div>
