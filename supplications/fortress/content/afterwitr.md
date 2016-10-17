@@ -23,7 +23,7 @@ Your browser does not support the audio element.
 &nbsp;
 <div class="duaextra" tabindex="0">
 <div><strong> அரபி மூலம் : </strong></div>
-<div class="extra">119: ஷ்ப்ஹானல் மலிகில் குத்தூஸ் என்று மும்முறை </div>
+<div class="extra">119: ஷ்ப்ஹானல் மலிகில் குத்தூஸ் என்று மும்முறை , மூன்றாவதில் அதை உரக்க கூறி அதன் மூலம் தன் சப்தத்தை (க் கூறுபவர்) நீட்டுவார்.</div>
 </div>
 &nbsp;
 <div class="duaextra" tabindex="0">
