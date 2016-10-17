@@ -31,7 +31,7 @@ Your browser does not support the audio element.
 <div class="extra"> சுத்தமாகிய அரசனான (அல்லாஹ்) மிக தூயவன் .</div>
 </div>
 &nbsp;
-<div class="extra">[Recite three times in Arabic, and raise and extend the voice on the third time and say . . .]</div>
+<div class="extra"> </div>
 &nbsp;
 <div class="duaextra" tabindex="0">
 <div><strong>Transliteration</strong></div>
