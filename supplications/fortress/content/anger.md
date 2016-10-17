@@ -21,7 +21,7 @@ description: Invocation for anger
 Your browser does not support the audio element.
 </audio> &nbsp;
 
-<div class="duaextra" tabindex="0"> <div onclick = "void(0)"><strong> அரபி மூலம் :</strong></div> <div class="extra">
+<div class="duaextra" tabindex="0"> <div onclick = "void(0)"><strong> </strong></div> <div class="extra">
 (193) அஊது பில்லாஹி மினஷ் ஷைத்தானிர் ரஜீம்.
 
 </div> </div> &nbsp; 
