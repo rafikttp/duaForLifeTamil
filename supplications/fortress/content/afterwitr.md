@@ -39,8 +39,8 @@ Your browser does not support the audio element.
 </div>
 &nbsp;
 <div class="duaextra" tabindex="0">
-<div><strong>Translation</strong></div>
-<div class="extra">Lord of the angels and the Spirit.</div>
+<div><strong> பொருள் : </strong></div>
+<div class="extra"> மலக்குகளுக்கும் ஜிப்ரயீல் அலைஹிஸ்ஸலாம் அவர்களும் அவனே இரட்சகன். </div>
 </div>
 &nbsp;
 <div class="duaextra" tabindex="0">
