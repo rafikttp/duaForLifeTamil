@@ -25,8 +25,8 @@ Your browser does not support the audio element.
 </div>
 &nbsp;
 <div class="duaextra" tabindex="0">
-<div><strong>Translation</strong></div>
-<div class="extra">Allah, Revealer of the Book, Swift to account , defeat the groups (of disbelievers) . O Allah , defeat them and shake them.</div>
+<div><strong> பொருள் :</strong></div>
+<div class="extra">வேதத்தை இறக்கி வைத்தவன், துரிதமாகக் கணக்குத் தீர்ப்பவனாகிய யா அல்லாஹ்! எதிரிப்படைகளை தோற்கடிப்பாயாக ! யா அல்லாஹ் ! அவர்களை தோற்கடிப்பாயாக! இன்னும் அவர்களை உலுக் (கி நிலை தடுமாறியவர்களாக ஆக்)கி விடுவாயாக!. </div>
 </div>
 &nbsp;
 <div class="duaextra" tabindex="0">
