@@ -1,4 +1,5 @@
----
+3/315 அபுதாவூது மற்றும் ஹாகிம். அதை அவர்கள் சரியானதெனவும் கூறி 1/370
+இலக்க்மிட்டு தஹபீ அவர்களும் அதற்கு ஒப்புதல் தெரிவித்துள்ளார்கள்.---
 layout: allpages
 title:  மய்யித்தை அடக்கம் செய்த பிறகு துஆ
 categories : [fortress]
@@ -34,5 +35,6 @@ Your browser does not support the audio element.
 </div> </div> &nbsp;
 <div class="duaextra" tabindex="0"> <div onclick = "void(0)"><strong>நூல்கள்:</strong></div> <div class="extra">
 
-
+3/315 அபுதாவூது மற்றும் ஹாகிம். அதை அவர்கள் சரியானதெனவும் கூறி 1/370
+இலக்க்மிட்டு தஹபீ அவர்களும் அதற்கு ஒப்புதல் தெரிவித்துள்ளார்கள்.
 </div> </div>
