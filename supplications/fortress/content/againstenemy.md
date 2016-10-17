@@ -20,8 +20,8 @@ Your browser does not support the audio element.
 
 &nbsp;
 <div class="duaextra" tabindex="0">
-<div><strong>Transliteration</strong></div>
-<div class="extra">131. Allaahumma munzilal-kitaabi, saree'al-hisaabi, ihzimil-'ahzaaba, Allaahumma ihzimhum wa zalzilhum.</div>
+<div><strong> அரபி மூலம் : </strong></div>
+<div class="extra"> (131) அல்லாஹும்ம முன் ஜிலல் கிதாபி , ஸரீஹல் ஹிஸாபி , இஹ்ஜிமில் அஹ்ஜாப , அல்லாஹும்ம ஜிம்ஹும் ,வ ஜல் ஜில்ஹும்.</div>
 </div>
 &nbsp;
 <div class="duaextra" tabindex="0">
