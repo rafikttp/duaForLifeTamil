@@ -30,6 +30,6 @@ Your browser does not support the audio element.
 </div>
 &nbsp;
 <div class="duaextra" tabindex="0">
-<div><strong>Reference</strong></div>
-<div class="extra">Reference: Muslim 3/1362.</div>
+<div><strong> ஆதார நூல்கள் :</strong></div>
+<div class="extra"> முஸ்லிம்  3/1362.</div>
 </div>
