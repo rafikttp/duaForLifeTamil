@@ -22,7 +22,7 @@ Your browser does not support the audio element.
 </audio> &nbsp;
 
 <div class="duaextra" tabindex="0"> <div onclick = "void(0)"><strong>Transliteration</strong></div> <div class="extra">
-193. 'A'oothu billaahi minash-Shaytaanir-rajeem .
+(193) அஊது பில்லாஹி மினஷ் ஷைத்தானிர் ரஜீம்.
 
 </div> </div> &nbsp; 
 <div class="duaextra" tabindex="0"> <div onclick = "void(0)"><strong>Translation</strong></div> <div class="extra">
