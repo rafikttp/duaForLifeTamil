@@ -1,6 +1,6 @@
 ---
 layout: allpages
-title:  What to say immediately following the Witr prayer
+title:  வித்ரு(த் தொழுகையிலிருந்து ) ஸலாமுக்கு பிறகு கூறப்படும் துஆ
 categories : [fortress]
 order : 33
 description: What to say immediately following the Witr prayer
