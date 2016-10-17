@@ -34,8 +34,8 @@ Your browser does not support the audio element.
 <div class="extra"> </div>
 &nbsp;
 <div class="duaextra" tabindex="0">
-<div><strong>Transliteration</strong></div>
-<div class="extra">Rabbil-malaa'ikati warroohi.</div>
+<div><strong> அரபி மூலம் :</strong></div>
+<div class="extra">(ரப்பில் மலாயிகதி வர் ரூஹ் ) என்று கூறுவார். </div>
 </div>
 &nbsp;
 <div class="duaextra" tabindex="0">
