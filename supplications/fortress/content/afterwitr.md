@@ -1,4 +1,4 @@
----
+ ---
 layout: allpages
 title:  வித்ரு(த் தொழுகையிலிருந்து ) ஸலாமுக்கு பிறகு கூறப்படும் துஆ
 categories : [fortress]
@@ -22,7 +22,7 @@ Your browser does not support the audio element.
 
 &nbsp;
 <div class="duaextra" tabindex="0">
-<div><strong> அரபி மூலம்: </strong></div>
+<div><strong> அரபி மூலம் : </strong></div>
 <div class="extra">119: Subhaanal-Malikil-Quddoosi.</div>
 </div>
 &nbsp;
