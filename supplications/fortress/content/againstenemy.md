@@ -1,6 +1,6 @@
 ---
 layout: allpages
-title:  Invocation against an enemy
+title:  எதிரிக்கு விரோதமாக துஆ
 categories : [fortress]
 order : 38
 description: What to say against an enemy
