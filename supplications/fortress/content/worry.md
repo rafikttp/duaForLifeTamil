@@ -1,6 +1,6 @@
 ---
 layout: allpages
-title:  Invocations in times of worry and grief
+title:  துக்கம் மற்றும் கவலை போக்க துஆ
 categories : [fortress]
 order : 34
 description: What to say in times of worry and grief
